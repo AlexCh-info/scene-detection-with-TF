@@ -18,7 +18,7 @@
 ## ▶️ Как использовать
 1. Установите зависимости
 ```
-pip install opencv-python numpy scikit-image xgboost joblib
+pip install opencv-python numpy scikit-image xgboost joblib scenedetect
 ```
 💡 Если вы используете Jupyter Notebook — убедитесь, что ядро Python имеет доступ к этим пакетам.
 
