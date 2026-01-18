@@ -74,6 +74,8 @@ scene-detection-with-TF/
 ├── SDC_ssim.ipynb            ← SSIM
 └── README.md                 ← этот файл
 ```
+# Пример работы программы
+<img width="507" height="631" alt="image" src="https://github.com/user-attachments/assets/8fd2839b-e787-402a-a3f2-fbceb5d44aec" /> 
 
 
 
